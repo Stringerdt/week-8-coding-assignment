@@ -134,6 +134,7 @@ ul>li {
 
 .strongText {
     color: #31708E;
+    font-weight: 700;
 }
 
 .introTextContainer {
@@ -302,6 +303,7 @@ ul>li {
     height: 30%;
     text-align: center;
     font-size: 1.4rem;
+    font-weight: 400;
     margin: 0;
     line-height: 2.5;
     border-bottom: 1px solid #31708E;
@@ -327,6 +329,7 @@ ul>li {
 
 .benefit {
     font-weight: 700;
+    color: #31708E;
 }
 
 .processBackgroundImage {
